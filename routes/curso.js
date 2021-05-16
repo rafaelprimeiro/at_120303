@@ -4,67 +4,67 @@ var router = express.Router();
 const cursos = [
     {
         "id": 9,
-        "image": "https://picsum.photos/id/9/1024/1024",
+        "image": "https://picsum.photos/id/9/960/450",
         "title": "Lorem ipsum dolor sit amet",
     },
     {
         "id": 1059,
-        "image": "https://picsum.photos/id/1059/1024/1024",
+        "image": "https://picsum.photos/id/1059/960/450",
         "title": "Quisque blandit enim non",
     },
     {
         "id": 1060,
-        "image": "https://picsum.photos/id/1060/1024/1024",
+        "image": "https://picsum.photos/id/1060/960/450",
         "title": "Mauris at lorem vitae",
     },
     {
         "id": 1082,
-        "image": "https://picsum.photos/id/1082/1024/1024",
+        "image": "https://picsum.photos/id/1082/960/450",
         "title": "Praesent eu dui accumsan",
     },
     {
         "id": 119,
-        "image": "https://picsum.photos/id/119/1024/1024",
+        "image": "https://picsum.photos/id/119/960/450",
         "title": "Praesent fringilla nibh eget",
     },
     {
         "id": 133,
-        "image": "https://picsum.photos/id/133/1024/1024",
+        "image": "https://picsum.photos/id/133/960/450",
         "title": "In id justo mattis",
     },
     {
         "id": 139,
-        "image": "https://picsum.photos/id/139/1024/1024",
+        "image": "https://picsum.photos/id/139/960/450",
         "title": "Curabitur eu justo cursus",
     },
     {
         "id": 201,
-        "image": "https://picsum.photos/id/201/1024/1024",
+        "image": "https://picsum.photos/id/201/960/450",
         "title": "Integer egestas",
     },
     {
         "id": 225,
-        "image": "https://picsum.photos/id/225/1024/1024",
+        "image": "https://picsum.photos/id/225/960/450",
         "title": "Vestibulum lobortis",
     },
     {
         "id": 250,
-        "image": "https://picsum.photos/id/250/1024/1024",
+        "image": "https://picsum.photos/id/250/960/450",
         "title": "Nulla iaculis magna",
     },
     {
         "id": 304,
-        "image": "https://picsum.photos/id/304/1024/1024",
+        "image": "https://picsum.photos/id/304/960/450",
         "title": "Proin commodo magna",
     },
     {
         "id": 366,
-        "image": "https://picsum.photos/id/366/1024/1024",
+        "image": "https://picsum.photos/id/366/960/450",
         "title": "Proin fringilla",
     },
     {
         "id": 39,
-        "image": "https://picsum.photos/id/39/1024/1024",
+        "image": "https://picsum.photos/id/39/960/450",
         "title": "Donec",
     },
 ]
